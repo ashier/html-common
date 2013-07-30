@@ -14,7 +14,8 @@ module.exports = function(grunt) {
         },
         files: {
           "css/default.css": "less/default.less",
-          "examples/login/login.css": "examples-less/login.less"
+          "examples/login/login.css": "examples-less/login.less",
+          "examples/requirejs/requirejs.css": "examples-less/requirejs.less"
         }
       }
     }

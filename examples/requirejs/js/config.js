@@ -1,5 +1,5 @@
 requirejs.config({
-  baseUrl: '../js',
+  baseUrl: 'js',
   paths: {
     jquery: 'vendors/jquery',
     underscore: 'vendors/underscore',
@@ -14,8 +14,8 @@ requirejs.config({
 });
 
 require([
-  'sample'
+  'app'
 ], function(App) {
-  console.log("Flickr Search Application Initialized...");
-  // App.initialize();
+  console.log("Application Initialized...");
+  App.initialize();
 });
