@@ -1,12 +1,15 @@
 {
   "name": "html-common",
   "version": "0.0.1",
-  "description": "",
+  "description": "ERROR: No README data found!",
   "main": "gruntfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashier/html-common.git"
+  },
   "author": "Ashier de Leon",
   "license": "BSD",
   "readmeFilename": "README.md",
@@ -17,5 +20,12 @@
     "grunt-contrib-jade": "~0.8.0",
     "grunt-contrib-copy": "~0.4.1",
     "grunt-contrib-requirejs": "~0.4.1"
+  },
+  "gitHead": "2ca0921b805ca876984736a879acb0a4faccb75c",
+  "directories": {
+    "example": "examples"
+  },
+  "bugs": {
+    "url": "https://github.com/ashier/html-common/issues"
   }
 }
