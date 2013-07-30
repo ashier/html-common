@@ -1,5 +1,8 @@
-**HTML Common Examples**
+HTML Common Examples
+--------------------
+
+
 Gallery of useful examples using Bootsrap.
 
-ashier.github.io/html-common/
+http://ashier.github.io/html-common/
 
